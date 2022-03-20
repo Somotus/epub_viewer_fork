@@ -11,7 +11,7 @@ part 'model/epub_locator.dart';
 part 'utils/util.dart';
 
 class EpubViewer {
-  static const MethodChannel _channel = const MethodChannel('epub_viewer');
+  static const MethodChannel _channel = const MethodChannel('epub_viewer_fork1');
   static const EventChannel _pageChannel = const EventChannel('page');
 
   /// Configure Viewer's with available values

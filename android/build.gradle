@@ -1,4 +1,4 @@
-group 'com.jideguru.epub_viewer'
+group 'com.jideguru.epub_viewer_fork1'
 version '1.0'
 
 buildscript {

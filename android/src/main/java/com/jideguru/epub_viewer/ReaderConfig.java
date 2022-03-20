@@ -1,4 +1,4 @@
-package com.jideguru.epub_viewer;
+package com.jideguru.epub_viewer_fork1;
 
 import android.content.Context;
 import android.graphics.Color;

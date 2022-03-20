@@ -1,4 +1,4 @@
-package com.jideguru.epub_viewer;
+package com.jideguru.epub_viewer_fork1;
 
 import com.folioreader.model.HighLight;
 

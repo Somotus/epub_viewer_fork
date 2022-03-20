@@ -57,7 +57,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.4"
-  epub_viewer:
+  epub_viewer_fork1:
     dependency: "direct dev"
     description:
       path: ".."

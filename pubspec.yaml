@@ -1,8 +1,8 @@
-name: epub_viewer
+name: epub_viewer_fork1_fork1
 description: 
-  'epub_viewer is an epub ebook reader that encapsulates the folioreader framework.'
+  'epub_viewer_fork1 is an epub ebook reader that encapsulates the folioreader framework.'
 version: 0.2.5
-homepage: https://github.com/JideGuru/epub_viewer
+homepage: https://github.com/JideGuru/epub_viewer_fork1
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
@@ -30,7 +30,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.jideguru.epub_viewer
+        package: com.jideguru.epub_viewer_fork1
         pluginClass: EpubViewerPlugin
       ios:
         pluginClass: EpubViewerPlugin

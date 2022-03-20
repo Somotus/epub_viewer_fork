@@ -1,5 +1,5 @@
 #import "EpubViewerPlugin.h"
-#import <epub_viewer/epub_viewer-Swift.h>
+#import <epub_viewer_fork1/epub_viewer_fork1-Swift.h>
 
 @implementation EpubViewerPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
